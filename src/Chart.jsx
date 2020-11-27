@@ -119,7 +119,7 @@ function Linee({data:{confirmed,deaths,recovered},country}) {
     return (
 
         <div>
-          <h1>Loading....</h1>
+          <h1>Loading...</h1>
       </div>
     );
   } else {
